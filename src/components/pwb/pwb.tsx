@@ -16,6 +16,7 @@ import AppHost from "../app-host/app-host";
 import { fetchEntitlementsRequestAction } from '../../store/actions';
 
 const Theme = DarkTheme;
+// const Theme = BarclaysTheme;
 
 interface IPwbState {
 	sideBarOpen: boolean;

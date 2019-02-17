@@ -9,6 +9,7 @@ import Drawer from '@material-ui/core/Drawer';
 import Icon from '@material-ui/core/Icon';
 import IconButton from '@material-ui/core/IconButton';
 import { createStyles, withStyles, Theme } from '@material-ui/core/styles';
+import { DarkTheme, LightTheme, BarclaysTheme } from "../../themes";
 
 import { SideBarWidth } from '../constants';
 
